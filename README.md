@@ -102,16 +102,6 @@ Minimalist journaling app with mood tracking, AI-powered insights, and encrypted
 - 💻 Contributed to enterprise-scale applications using Spring Boot and React
 - 📈 Automated testing workflows, increasing code coverage by 25%
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InDepthCode&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InDepthCode&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-</div>
 
 ---
 
